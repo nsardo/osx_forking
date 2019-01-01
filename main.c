@@ -1,3 +1,9 @@
+/**
+ * @author Nicholas Sardo <gcc.programmer@gmail.com>
+ * @copyright ©2019 Nicholas Sardo
+ * @license MIT
+ */
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>
