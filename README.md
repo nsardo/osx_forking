@@ -1,6 +1,9 @@
 ## OSX_forking
 
 Example code showing use of Linux / Unix API's on OS X
+- forking a process
+- killing a forked child process from parent
+
 Also built commandline program
 
 ### USAGE:
